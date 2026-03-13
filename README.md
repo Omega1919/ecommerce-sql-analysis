@@ -26,3 +26,6 @@ Each query is documented with:
 **Query:**
 ```sql
 SELECT COUNT(invoiceno) FROM ecommerce;
+Result: 541,909 orders
+Insight: High transaction volume shows strong customer activity.
+Future Purpose: Track monthly growth and seasonality to forecast demand.
