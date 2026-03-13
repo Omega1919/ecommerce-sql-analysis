@@ -29,3 +29,15 @@ SELECT COUNT(invoiceno) FROM ecommerce;
 Result: 541,909 orders
 Insight: High transaction volume shows strong customer activity.
 Future Purpose: Track monthly growth and seasonality to forecast demand.
+```
+## 📊 Dashboard
+This project includes an interactive dashboard built in Looker Studio.  
+It visualizes key metrics such as:
+- Total Orders, Customers, Products, Revenue, AOV
+- Top Products by Quantity and Revenue
+- Top Customers by Orders and Revenue
+- Revenue by Country
+- Monthly Revenue Trend
+
+![Dashboard Overview](dashboard/E-commerce_dashboard.pdf)
+
