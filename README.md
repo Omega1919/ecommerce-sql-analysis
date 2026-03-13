@@ -125,3 +125,7 @@ Customer segmentation for personalized marketing
 Return rate analysis by customer and product category
 
 Monthly growth forecasting and trend analysis
+
+📑 Report
+A detailed written report summarizing the analysis and insights is available here:  
+[View Report](report.pdf)
