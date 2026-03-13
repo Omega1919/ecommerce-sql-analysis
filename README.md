@@ -39,5 +39,5 @@ It visualizes key metrics such as:
 - Revenue by Country
 - Monthly Revenue Trend
 
-![Dashboard Overview](dashboard/E-commerce_dashboard.pdf)
+![Dashboard Overview](E-Commerce_Dashboard.pdf)
 
