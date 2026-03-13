@@ -105,6 +105,7 @@ Geographic Insights: Revenue by country, top countries by orders
 Monthly Trends: Revenue distribution across months
 
 ![Dashboard Overview](E-Commerce_Dashboard)
+
 You can view the live dashboard here: [View Dashboard](https://lookerstudio.google.com/reporting/7e1f72aa-1afe-4840-8854-9919fd83dad1)
 
 ✅ Recommendations
